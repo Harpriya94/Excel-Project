@@ -8,7 +8,8 @@
 - [Bar Charts](#bar-charts)
 - [Line & Pie Chart](#line-&-pie-chart)
 - [Tree Map](#tree-map)
-- [IF Condition](#if-condition)
+- [IF & IFS Conditions](#if-&-ifs-conditions)
+- 
 - 
 
 ---
@@ -40,6 +41,7 @@
 
 ---
 
-### IF Condition
+### IF & IFS Condition
 ![](/assets/images/IfCondition.png)
+![](/assets/images/IfsCondition.png)
 
