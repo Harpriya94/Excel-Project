@@ -11,7 +11,8 @@
 - [IF & IFS Conditions](#if-&-ifs-conditions)
 - [AND & OR Functions](#and-&-or-functions)
 - [Text Functions](#text-funtions)
-
+- [Aggregate Functions](#aggregate-functions)
+- [Pivot Tables](#pivot-tables)
 ---
 
 ### Data Formatting
@@ -66,6 +67,24 @@ Showcasing COUNT, COUNTA, COUNTIF, COINTIFS, AVERAGE, MIN, MAX, SUM, SUMIF funct
 
 ![](/assets/images/AggFunctionFormulas.png)
 ![](/assets/images/AggFunctionResult.png)
+
+---
+
+### Pivot Tables
+Showcasing Pivot Table, Pivot table chart, slicers and timeline.
+
+![](/assets/images/PivotTableData.png)
+![](/assets/images/PivotTable.png)
+
+----
+
+
+
+
+
+
+
+
 
 
 
