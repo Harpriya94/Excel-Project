@@ -157,7 +157,27 @@ Showcasing how to setup data validation settings, input messages, error alerts a
 --
 ![](/assets/images/indexMatch2.png)
 
+---
 
+## Power Query
+
+![](/assets/images/PowerQueryRawData.png)
+--
+![](/assets/images/PowerQuery1.png)
+---
+![](/assets/images/PowerQuery2.png)
+---
+![](/assets/images/PowerQuery3.png)
+---
+![](/assets/images/PowerQuery4.png)
+---
+![](/assets/images/PowerQuery5.png)
+---
+![](/assets/images/PowerQuery6.png)
+---
+![](/assets/images/PowerQuery7.png)
+
+---
 
 
 
