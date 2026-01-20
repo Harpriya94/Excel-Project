@@ -12,6 +12,7 @@
 - [AND OR Functions](#and-or-functions)
 - [Text Functions](#text-functions)
 - [Aggregate Functions](#aggregate-functions)
+- [Array Functions](#array-functions)
 - [Pivot Tables](#pivot-tables)
 - [Data Validation](#data-validation)
 - [VLOOKUP HLOOKUP](#vlookup-hlookup)
@@ -19,7 +20,7 @@
 - [INDEX MATCH](#index-match)
 - [Power Query](#power-query)
 - [Power Pivot](#power-pivot)
-- [Array Functions](#array-functions)
+- 
 - [Data Quality](#data-quality)
 - [Data Cleaning](#data-cleaning)
 - [Macros](#macros)
